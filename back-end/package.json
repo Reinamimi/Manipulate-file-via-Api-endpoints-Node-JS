@@ -1,0 +1,29 @@
+{
+  "name": "node-exercise",
+  "version": "1.0.0",
+  "description": "This is an exercise to apply express in creating a Rest API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+    
+   },
+  "repository": {
+    "type": "git",
+    "url": "\"\""
+  },
+  "keywords": [
+    "express",
+    "node",
+    "js",
+    "REST",
+    "Api",
+    "CRUD",
+    "operations"
+  ],
+  "author": "Reinamimi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}

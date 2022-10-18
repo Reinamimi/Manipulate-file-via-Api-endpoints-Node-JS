@@ -1,0 +1,11 @@
+[
+  { "title": "be the change", "category": "humanitarian", "location": "Abuja" },
+  { "title": "seedFund", "category": "startup", "location": "Lagos" },
+  {
+    "title": "save Skylar",
+    "category": "medicals",
+    "location": "Lokoja"
+  },
+  { "title": "styleLuxe", "category": "startup", "location": "Delta" },
+  { "title": "cancerWars", "category": "humanitarian", "location": "Ibadan" }
+]
